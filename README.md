@@ -13,7 +13,9 @@
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![image](https://github.com/projeto-de-algoritmos/PD_EXERCICIOS_/assets/64803880/22009149-f01e-44f2-ba3f-8083def58162)
+![image](https://github.com/projeto-de-algoritmos/PD_EXERCICIOS_/assets/64803880/b0af490f-9f7b-47c0-bb59-2a8271063066)
+
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
@@ -21,7 +23,16 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para os exercicios que envolve a linguagem C digitar o comando(necessario ter gcc instalado):
+
+```
+gcc <nome_do_arquivo.c>
+```
+
+```
+./a.out
+```
+
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
