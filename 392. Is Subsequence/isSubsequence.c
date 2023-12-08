@@ -32,7 +32,7 @@ int main(){
     s = "axc";
     t = "ahbgdc";
     bool result = isSubsequence(s, t);
-    printf("%d", result ? "true" : "false");
+    printf("%s\n", result ? "true" : "false");
 
     return 0;
 }
