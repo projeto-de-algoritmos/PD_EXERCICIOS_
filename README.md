@@ -10,13 +10,17 @@
 | 20/0020927  |  João Vítor Motta Souto Maior |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Consiste em resolver questões relacionadas ao tema. 
 
 ## Screenshots
 ![image](https://github.com/projeto-de-algoritmos/PD_EXERCICIOS_/assets/64803880/22009149-f01e-44f2-ba3f-8083def58162)
 ![image](https://github.com/projeto-de-algoritmos/PD_EXERCICIOS_/assets/64803880/b0af490f-9f7b-47c0-bb59-2a8271063066)
 <br>
 ![Screenshot from 2023-12-08 15-39-55](https://github.com/projeto-de-algoritmos/PD_EXERCICIOS_/assets/64803880/56504fa0-ac93-41d5-a0cf-c3d2ece54f98)
+![image](https://github.com/projeto-de-algoritmos/PD_EXERCICIOS_/assets/78215376/4023ded3-1840-4d95-83e3-b3ae40e61cc7)
+![image](https://github.com/projeto-de-algoritmos/PD_EXERCICIOS_/assets/78215376/f4aead98-5dd9-4a76-addf-9e9492083305)
+
+
 
 
 
@@ -37,8 +41,7 @@ gcc <nome_do_arquivo.c>
 ```
 
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
 
 
 
