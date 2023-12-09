@@ -10,7 +10,9 @@
 | 20/0020927  |  João Vítor Motta Souto Maior |
 
 ## Sobre 
-Consiste em resolver questões relacionadas ao tema. 
+Consiste em resolver questões relacionadas ao Leet code e beecrowd. 
+
+O video de apresentação da dupla se encontra nesse repositorio ,clicando em "Apresentação" a seguir ,será redirecionado ao arquivo de apresentação da dupla: [Apresentação](https://github.com/projeto-de-algoritmos/PD_EXERCICIOS_/blob/master/Apresenta%C3%A7%C3%A3o_Pd.mp4)
 
 ## Screenshots
 ![image](https://github.com/projeto-de-algoritmos/PD_EXERCICIOS_/assets/64803880/22009149-f01e-44f2-ba3f-8083def58162)
