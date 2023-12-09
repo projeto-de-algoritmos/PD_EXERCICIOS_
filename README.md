@@ -40,7 +40,10 @@ gcc <nome_do_arquivo.c>
 ./a.out
 ```
 
-
+Para os exercicios que envolve a linguagem Phyton,Digitar comando:
+```
+python3 <nome_do_arquivo>
+```
 
 
 
