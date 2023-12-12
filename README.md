@@ -35,9 +35,8 @@ O video de apresentação da dupla se encontra nesse repositorio ,clicando em "A
 
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C e Phyton<br>
+
 
 ## Uso 
 Para os exercicios que envolve a linguagem C digitar o comando(necessario ter gcc instalado):
