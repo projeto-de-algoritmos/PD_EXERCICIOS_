@@ -15,8 +15,11 @@ Consiste em resolver questões relacionadas ao Leet code e beecrowd.
 [1029 - Fibonacci, How Many Calls?](https://www.beecrowd.com.br/judge/en/problems/view/1029)
 
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+
 [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+
 https://leetcode.com/problems/network-delay-time/
+
 [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
 O video de apresentação da dupla se encontra nesse repositorio ,clicando em "Apresentação" a seguir ,será redirecionado ao arquivo de apresentação da dupla: [Apresentação](https://github.com/projeto-de-algoritmos/PD_EXERCICIOS_/blob/master/Apresenta%C3%A7%C3%A3o_Pd.mp4)
